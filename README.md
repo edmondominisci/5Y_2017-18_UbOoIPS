@@ -1,1 +1,3 @@
-# 5Y_2017-18_UbOoIPS
+Codes developpend within the framework of the 5th YearGroup Project "Uncertainty Based Optimisation of an Integrated Power System"
+
+Copyright (C) 2017: Any code in this repository/branch is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. Any code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details: http://www.gnu.org/licenses/.
